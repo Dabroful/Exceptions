@@ -1,0 +1,7 @@
+D:\Разработка\C#\Isklucheniya\bin\Debug\Isklucheniya.exe
+D:\Разработка\C#\Isklucheniya\bin\Debug\Isklucheniya.pdb
+D:\Разработка\C#\Isklucheniya\obj\Debug\Isklucheniya.csproj.AssemblyReference.cache
+D:\Разработка\C#\Isklucheniya\obj\Debug\Isklucheniya.csproj.SuggestedBindingRedirects.cache
+D:\Разработка\C#\Isklucheniya\obj\Debug\Isklucheniya.csproj.CoreCompileInputs.cache
+D:\Разработка\C#\Isklucheniya\obj\Debug\Isklucheniya.exe
+D:\Разработка\C#\Isklucheniya\obj\Debug\Isklucheniya.pdb
